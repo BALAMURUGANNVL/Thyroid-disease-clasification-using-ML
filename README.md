@@ -1,2 +1,5 @@
 # Thyroid-disease-clasification-using-ML
-for demo link
+
+link for demo video
+
+https://youtu.be/lmbt7j9uzl
